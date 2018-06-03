@@ -13,7 +13,7 @@ Users move the hero character by using the main up/right/left/down arrow keys on
 To run the application:
 
 1. Download the GitHub zip file or clone the repository onto your local workstation:
-	* zip file [https://github.com/koriim/frontend-nanodegree-arcade-game/archive/arcade-master.zip](https://github.com/koriim/frontend-nanodegree-arcade-game/archive/arcade-master.zip "download zip file")
+	* zip file [https://github.com/koriim/frontend-nanodegree-arcade-game/archive/koriem.zip](https://github.com/koriim/frontend-nanodegree-arcade-game/archive/koriem.zip "download zip file")
 	* git clone [https://github.com/koriim/frontend-nanodegree-arcade-game.git](https://github.com/koriim/frontend-nanodegree-arcade-game.git/ "git clone repository")
 2. Open a browser window and navigate to the index.html file in your application's directory.
 ## Tools / Techniques
